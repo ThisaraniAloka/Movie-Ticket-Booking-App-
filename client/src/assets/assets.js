@@ -57,10 +57,10 @@ export const dummyShowsData = [
     {
         "_id": "324544",
         "id": 324544,
-        "title": "In the Lost Lands",
-        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-        "poster_path": "https://image.tmdb.org/t/p/original/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+        "title": "Elumale",
+        "overview": "Set in 2004 along the Karnataka-Tamil Nadu border, Elumale follows Harisha, a Mysuru cab driver, and Revathi, a wealthy young woman from Salem, whose cross-border romance becomes entangled with law enforcement, smugglers, and larger political undercurrents. As they attempt to reunite, a series of incidents complicate their plans, leading to a tense, thriller climax",
+        "poster_path": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/elumale-et00459286-1757751378.jpg",
+        "backdrop_path": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/elumale-et00459286-1757751378.jpg",
         "genres": [
             { "id": 28, "name": "Action" },
             { "id": 14, "name": "Fantasy" },
@@ -77,10 +77,10 @@ export const dummyShowsData = [
     {
         "_id": "1232546",
         "id": 1232546,
-        "title": "Until Dawn",
+        "title": "Kantara",
         "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
-        "poster_path": "https://image.tmdb.org/t/p/original/juA4IWO52Fecx8lhAsxmDgy3M3.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/icFWIk1KfkWLZnugZAJEDauNZ94.jpg",
+        "poster_path": "https://img.indiaforums.com/movie/350x525/6/885-kantara.webp?c=2mT9A5",
+        "backdrop_path": "https://img.indiaforums.com/movie/350x525/6/885-kantara.webp?c=2mT9A5",
         "genres": [
             { "id": 27, "name": "Horror" },
             { "id": 9648, "name": "Mystery" }
@@ -96,10 +96,10 @@ export const dummyShowsData = [
     {
         "_id": "552524",
         "id": 552524,
-        "title": "Lilo & Stitch",
+        "title": "K-Ramp",
         "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
-        "poster_path": "https://image.tmdb.org/t/p/original/mKKqV23MQ0uakJS8OCE2TfV5jNS.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+        "poster_path": "https://i.ytimg.com/vi/hDQeYiwdGPg/maxresdefault.jpg",
+        "backdrop_path": "https://i.ytimg.com/vi/hDQeYiwdGPg/maxresdefault.jpg",
         "genres": [
             { "id": 10751, "name": "Family" },
             { "id": 35, "name": "Comedy" },
@@ -116,10 +116,10 @@ export const dummyShowsData = [
     {
         "_id": "668489",
         "id": 668489,
-        "title": "Havoc",
+        "title": "Run to the West",
         "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
-        "poster_path": "https://image.tmdb.org/t/p/original/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
+        "poster_path": "https://i.mydramalist.com/Px5NYZ_4c.jpg?v=1",
+        "backdrop_path": "https://i.mydramalist.com/Px5NYZ_4c.jpg?v=1",
         "genres": [
             { "id": 28, "name": "Action" },
             { "id": 80, "name": "Crime" },
@@ -136,10 +136,10 @@ export const dummyShowsData = [
     {
         "_id": "950387",
         "id": 950387,
-        "title": "A Minecraft Movie",
+        "title": "The World of Love",
         "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-        "poster_path": "https://image.tmdb.org/t/p/original/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-        "backdrop_path": "https://image.tmdb.org/t/p/original/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+        "poster_path": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_World_of_Love.jpg",
+        "backdrop_path": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_World_of_Love.jpg",
         "genres": [
             { "id": 10751, "name": "Family" },
             { "id": 35, "name": "Comedy" },
