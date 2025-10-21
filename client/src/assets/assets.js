@@ -177,7 +177,7 @@ export const dummyShowsData = [
     {
         "_id": "986056",
         "id": 986056,
-        "title": "hh",
+        "title": "One Man Army",
         "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
         "poster_path": "https://i.ytimg.com/vi/wHFnyV2KH6M/mqdefault.jpg",
         "backdrop_path": "https://i.ytimg.com/vi/wHFnyV2KH6M/mqdefault.jpg",
