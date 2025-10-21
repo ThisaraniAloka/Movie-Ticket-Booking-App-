@@ -64,7 +64,7 @@ export const dummyShowsData = [
         "genres": [
             { "id": 28, "name": "Action" },
             { "id": 14, "name": "Fantasy" },
-            { "id": 12, "name": "Adventure" }
+            { "id": 12, "name": "Drama" }
         ],
         "casts": dummyCastsData,
         "release_date": "2025-02-27",
@@ -78,12 +78,12 @@ export const dummyShowsData = [
         "_id": "1232546",
         "id": 1232546,
         "title": "Kantara",
-        "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+        "overview": "Kantara is a 2022 Indian film about a clash between villagers, a forest officer, and local folklore, exploring themes of identity, tradition, and faith. A prequel, Kantara: Chapter 1, set during the Kadamba dynasty, delves into the origin of the film's divine protectors through a story of greed, power, and spirituality colliding in the mystical forest. ",
         "poster_path": "https://img.indiaforums.com/movie/350x525/6/885-kantara.webp?c=2mT9A5",
         "backdrop_path": "https://img.indiaforums.com/movie/350x525/6/885-kantara.webp?c=2mT9A5",
         "genres": [
-            { "id": 27, "name": "Horror" },
-            { "id": 9648, "name": "Mystery" }
+            { "id": 27, "name": "Action" },
+            { "id": 9648, "name": "Drama" }
         ],
         "casts": dummyCastsData,
         "release_date": "2025-04-23",
@@ -97,13 +97,13 @@ export const dummyShowsData = [
         "_id": "552524",
         "id": 552524,
         "title": "K-Ramp",
-        "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+        "overview": "The Telugu film Ka, starring Kiran Abbavaram, is a suspense thriller that explores a mysterious narrative. Abbavaram's character faces unexpected challenges, enhanced by surprising twists that keep viewers engaged until the climax.",
         "poster_path": "https://i.ytimg.com/vi/hDQeYiwdGPg/maxresdefault.jpg",
         "backdrop_path": "https://i.ytimg.com/vi/hDQeYiwdGPg/maxresdefault.jpg",
         "genres": [
-            { "id": 10751, "name": "Family" },
-            { "id": 35, "name": "Comedy" },
-            { "id": 878, "name": "Science Fiction" }
+            { "id": 10751, "name": "Thriller" },
+            { "id": 35, "name": "Mystery" },
+            { "id": 878, "name": "Drama" }
         ],
         "casts": dummyCastsData,
         "release_date": "2025-05-17",
@@ -117,12 +117,12 @@ export const dummyShowsData = [
         "_id": "668489",
         "id": 668489,
         "title": "Run to the West",
-        "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+        "overview": "Run to the West is a high-octane action-thriller set in a surreal realm between the living world and the afterlife. The story follows individuals trapped in this liminal space, pursued by grim reapers intent on claiming their souls. As urban chaos unfolds, the characters must navigate this perilous environment to escape their fate.",
         "poster_path": "https://i.mydramalist.com/Px5NYZ_4c.jpg?v=1",
         "backdrop_path": "https://i.mydramalist.com/Px5NYZ_4c.jpg?v=1",
         "genres": [
             { "id": 28, "name": "Action" },
-            { "id": 80, "name": "Crime" },
+            { "id": 80, "name": "Fantasy" },
             { "id": 53, "name": "Thriller" }
         ],
         "casts": dummyCastsData,
@@ -137,14 +137,14 @@ export const dummyShowsData = [
         "_id": "950387",
         "id": 950387,
         "title": "The World of Love",
-        "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+        "overview": "The World of Love follows 17-year-old Jooin, portrayed by Seo Su-bin in her debut role, who is a lively and outspoken high school student. Her seemingly carefree life is disrupted when a moment of anger leads to the revelation of a traumatic past, causing her peers to treat her differently. The film explores her journey as she navigates the complexities of love, friendship, and the aftermath of her experiences.",
         "poster_path": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_World_of_Love.jpg",
         "backdrop_path": "https://upload.wikimedia.org/wikipedia/en/b/bb/The_World_of_Love.jpg",
         "genres": [
-            { "id": 10751, "name": "Family" },
-            { "id": 35, "name": "Comedy" },
+            { "id": 10751, "name": "Drama" },
+            { "id": 35, "name": "Coming-of-Age" },
             { "id": 12, "name": "Adventure" },
-            { "id": 14, "name": "Fantasy" }
+            { "id": 14, "name": "Family" }
         ],
         "casts": dummyCastsData,
         "release_date": "2025-03-31",
@@ -158,13 +158,13 @@ export const dummyShowsData = [
         "_id": "575265",
         "id": 575265,
         "title": "Shaolin: Dawn of the Demons",
-        "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+        "overview": "Shaolin Conquering Demons follows Huihai, a disciple of the Shaolin Temple, who embarks on a journey to find the hero who will subdue the dragon and stop the demon Rakshasa from descending into the world and overturning it into an icy purgatory. His childhood sweetheart, Shangguan Lingsu, is always there to protect and help Huihai to break the demons and learn the spirit of Shaolin to restore peace and vitality to the world.",
         "poster_path": "https://i.ytimg.com/vi/a_oIaM-zJgY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyNLeQBkyKazlopVpCV-bgfnP-eQ",
         "backdrop_path": "https://i.ytimg.com/vi/a_oIaM-zJgY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyNLeQBkyKazlopVpCV-bgfnP-eQ",
         "genres": [
             { "id": 28, "name": "Action" },
-            { "id": 12, "name": "Adventure" },
-            { "id": 53, "name": "Thriller" }
+            { "id": 12, "name": "Fantasy" },
+            { "id": 53, "name": "Adventure" }
         ],
         "casts": dummyCastsData,
         "release_date": "2025-05-17",
@@ -178,7 +178,7 @@ export const dummyShowsData = [
         "_id": "986056",
         "id": 986056,
         "title": "One Man Army",
-        "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+        "overview": "One Man Army centers on a group of individuals who, after being ensnared in a life-threatening trap, must navigate through a series of dangerous challenges. As they delve deeper into their mission, they are compelled to confront the shadows of their pasts, leading to intense personal revelations and a fight for survival.",
         "poster_path": "https://i.ytimg.com/vi/wHFnyV2KH6M/mqdefault.jpg",
         "backdrop_path": "https://i.ytimg.com/vi/wHFnyV2KH6M/mqdefault.jpg",
         "genres": [
