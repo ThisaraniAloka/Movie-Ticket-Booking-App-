@@ -3,12 +3,33 @@ import { Link, useNavigate } from 'react-router-dom'
 import { assets } from '../assets/assets'
 import { MenuIcon, SearchIcon, TicketPlus, XIcon } from 'lucide-react'
 import { useClerk, UserButton, useUser } from '@clerk/clerk-react'
+import { useEffect } from 'react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
-  const {user} = useUser()
+  
   const {openSignIn} = useClerk()
   const navigate = useNavigate()
+  const { user, isLoaded } = useUser();
+  
+  useEffect(() => {
+    if (isLoaded && user) {
+      // Trigger sync when user logs in
+      fetch('/api/sync-user', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      .then(response => response.json())
+      .then(data => {
+        console.log('✅ User sync response:', data);
+      })
+      .catch(error => {
+        console.error('❌ User sync failed:', error);
+      });
+    }
+  }, [user, isLoaded]);
   return (
     <div className='fixed top-0 left-0 z-50 w-full flex items-center justify-between px-6 md:px-16 lg:px-36 py-5'>
         <Link to='/' className='max-md:flex-1'>
